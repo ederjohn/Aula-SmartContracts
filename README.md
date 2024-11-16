@@ -55,7 +55,7 @@ Este repositório contém exemplos práticos de **smart contracts** desenvolvido
 
 1. Clone ou faça o download do repositório:
    ```bash
-   git clone [https://github.com/ederjohn/Aula-SmartContracts](https://github.com/ederjohn/Aula-SmartContracts)
+   git clone https://github.com/ederjohn/Aula-SmartContracts
    ```
 2. Abra os exemplos básicos no [Remix IDE](https://remix.ethereum.org/) para explorar os conceitos fundamentais.
 3. Siga as instruções na pasta `tarefas/` para realizar as atividades propostas.
