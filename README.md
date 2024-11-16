@@ -5,8 +5,8 @@ Este repositório contém exemplos práticos de **smart contracts** desenvolvido
 
 ## Objetivos
 
-1. Introduzir os fundamentos de desenvolvimento em Solidity.
-2. Demonstrar como criar e implantar smart contracts no Ethereum.
+1. Introduzir os fundamentos de desenvolvimento em Solidity
+2. Demonstrar como criar e implantar smart contracts no Ethereum
 3. Explorar aplicações práticas em áreas como:
    - Finanças descentralizadas (DeFi).
    - Rastreamento de ativos.
@@ -21,23 +21,28 @@ Este repositório contém exemplos práticos de **smart contracts** desenvolvido
   - Estruturação de contratos simples.
   - Controle de acesso e modificadores.
 
-- **`intermediarios/`**: Projetos intermediários.
+- **`intermediarios/`**: Projetos intermediários
   - Contratos com arrays e mapeamentos.
   - Eventos e interação com logs.
   - Uso de contratos externos.
 
-- **`avancados/`**: Aplicações avançadas.
+- **`avancados/`**: Aplicações avançadas
   - Finanças descentralizadas (DeFi).
   - Criação de tokens ERC-20 e ERC-721 (NFTs).
   - Modelos de governança descentralizada.
 
-- **`ferramentas/`**: Ferramentas e scripts úteis.
-  - Arquivos de configuração para o Remix.
+- **`ferramentas/`**: Ferramentas e scripts úteis
+  - Tutorial de uso do simulador Ganache.
   - Scripts para implantação usando Truffle e Hardhat.
   - Exemplos de integração com APIs Web3.js.
 
-- **`tarefas/`**: Tarefas práticas para estudantes.
+- **`exercicios/`**: Tarefas práticas para estudantes
   - Instruções detalhadas para criar contratos.
+  - Desafios com diferentes níveis de complexidade.
+  - Soluções para exercícios propostos.
+   
+- **`bibliografia/`**: Links para Bibliografia da aula
+  - Mastering Ethereum.
   - Desafios com diferentes níveis de complexidade.
   - Soluções para exercícios propostos.
 
@@ -58,7 +63,7 @@ Este repositório contém exemplos práticos de **smart contracts** desenvolvido
    git clone https://github.com/ederjohn/Aula-SmartContracts
    ```
 2. Abra os exemplos básicos no [Remix IDE](https://remix.ethereum.org/) para explorar os conceitos fundamentais.
-3. Siga as instruções na pasta `tarefas/` para realizar as atividades propostas.
+3. Siga as instruções na pasta `exercicios/` para realizar as atividades propostas.
 
 ## Licença
 
