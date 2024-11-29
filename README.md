@@ -26,15 +26,15 @@ Este repositório contém exemplos práticos de **smart contracts** desenvolvido
   - Eventos e interação com logs.
   - Uso de contratos externos.
 
-- **`avancados/`**: Aplicações avançadas
+- **`avancados/`**: Aplicações avançadas 
   - Finanças descentralizadas (DeFi).
   - Criação de tokens ERC-20 e ERC-721 (NFTs).
   - Modelos de governança descentralizada.
 
 - **`ferramentas/`**: Ferramentas e scripts úteis
   - Tutorial de uso do simulador Ganache.
-  - Scripts para implantação usando Truffle e Hardhat.
   - Exemplos de integração com APIs Web3.js.
+  - Scripts para implantação usando Truffle e Hardhat.
 
 - **`exercicios/`**: Tarefas práticas para estudantes
   - Instruções detalhadas para criar contratos.
@@ -43,8 +43,6 @@ Este repositório contém exemplos práticos de **smart contracts** desenvolvido
    
 - **`bibliografia/`**: Links para Bibliografia da aula
   - Mastering Ethereum.
-  - Desafios com diferentes níveis de complexidade.
-  - Soluções para exercícios propostos.
 
 ## Requisitos
 
