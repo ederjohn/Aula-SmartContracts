@@ -8,51 +8,50 @@ Este repositório contém exemplos práticos de **smart contracts** desenvolvido
 1. Introduzir os fundamentos de desenvolvimento em Solidity
 2. Demonstrar como criar e implantar smart contracts no Ethereum
 3. Explorar aplicações práticas em áreas como:
-   - Finanças descentralizadas (DeFi).
-   - Rastreamento de ativos.
-   - Sistemas de votação.
-   - Armazenamento de dados descentralizados.
+   - Finanças descentralizadas (DeFi)
+   - Rastreamento de ativos
+   - Sistemas de votação
+   - Armazenamento de dados descentralizados
 
 ## Estrutura do Repositório
 
 - **`basicos/`**: Exemplos simples
-  - Declaração de variáveis.
-  - Funções básicas.
-  - Estruturação de contratos simples.
-  - Controle de acesso e modificadores.
+  - Declaração de variáveis
+  - Funções básicas
+  - Estruturação de contratos simples
+  - Contratos com arrays
 
 - **`intermediarios/`**: Projetos intermediários
-  - Contratos com arrays e mapeamentos.
-  - Eventos e interação com logs.
-  - Uso de contratos externos.
+  - Contratos com mapeamentos
+  - Controle de acesso e modificadores
+  - Eventos e interação com logs
+  - Uso de contratos externos
 
 - **`avancados/`**: Aplicações avançadas 
-  - Finanças descentralizadas (DeFi).
-  - Criação de tokens ERC-20 e ERC-721 (NFTs).
-  - Modelos de governança descentralizada.
+  - Finanças descentralizadas (DeFi)
+  - Criação de tokens ERC-20 e ERC-721 (NFTs)
+  - Modelos de governança descentralizada
 
 - **`ferramentas/`**: Ferramentas e scripts úteis
-  - Tutorial de uso do simulador Ganache.
-  - Exemplos de integração com APIs Web3.js.
-  - Scripts para implantação usando Truffle e Hardhat.
+  - Tutorial de uso do simulador Ganache
+  - Exemplos de integração com APIs Web3.js
+  - Scripts para implantação usando Truffle e Hardhat
 
 - **`exercicios/`**: Tarefas práticas para estudantes
-  - Instruções detalhadas para criar contratos.
-  - Desafios com diferentes níveis de complexidade.
-  - Soluções para exercícios propostos.
+  - Instruções detalhadas para criar contratos
+  - Desafios com diferentes níveis de complexidade
+  - Soluções para exercícios propostos
    
 - **`bibliografia/`**: Links para Bibliografia da aula
-  - Mastering Ethereum.
+  - Mastering Ethereum
 
 ## Requisitos
 
 - **Ferramentas**:
   - [Remix IDE](https://remix.ethereum.org/)
-  - MetaMask para interação com a blockchain.
-  - Node.js e NPM (para usar Truffle ou Hardhat, se necessário).
 - **Pré-requisitos**:
-  - Conhecimento básico de blockchain.
-  - Experiência em programação.
+  - Conhecimento básico de blockchain
+  - Experiência em programação
 
 ## Como Usar
 
