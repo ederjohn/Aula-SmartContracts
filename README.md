@@ -3,6 +3,8 @@
 
 Este repositório contém exemplos práticos de **smart contracts** desenvolvidos em Solidity, criados para apoiar o aprendizado de estudantes em disciplinas relacionadas a Blockchain e Smart Contracts. Os exemplos abordam conceitos fundamentais, boas práticas de desenvolvimento e casos de uso reais, sendo projetados para aulas teóricas e práticas.
 
+**Repositório em contrução, apenas exemplos básicos no momento!**
+
 ## Objetivos
 
 1. Introduzir os fundamentos de desenvolvimento em Solidity
